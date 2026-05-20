@@ -1,0 +1,24 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor & IDE Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Local / Temp Files
+temp/
+tmp/
+*.log
+
+# Environment/Agent Files
+.sixth/
+.kilocode/
+
